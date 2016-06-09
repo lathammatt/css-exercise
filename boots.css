@@ -1,0 +1,37 @@
+.red {
+	background-color: red;
+}
+.orange {
+	background-color: orange;
+}
+.yellow {
+	background-color: yellow;
+}
+.green {
+	background-color: green;
+	color:lightgreen;
+}
+.blue {
+	background-color: blue;
+	color:lightblue;
+}
+.purple {
+	background-color: purple;
+	color:white;
+}
+.grey {
+	background-color: grey;
+}
+.black {
+	background-color: black;
+	color: white;
+}
+.navy {
+	background-color: navy;
+	color:white;
+}
+.white {
+	background-color: white;
+	border: 1px solid grey;
+	color:red;
+}
